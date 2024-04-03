@@ -221,6 +221,6 @@ require (
 replace github.com/zondax/hid => github.com/zondax/hid v0.9.0
 
 // use bianjieai fork of ethermint
-replace github.com/evmos/ethermint => github.com/bianjieai/ethermint v0.22.0-irishub-20231207
+replace github.com/evmos/ethermint => github.com/wanghao-bianjie/ethermint v0.0.0-20240409031303-648c54010b9a
 
 replace github.com/syndtr/goleveldb => github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7
